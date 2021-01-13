@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cnc.iml" filepath="$PROJECT_DIR$/cnc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cnc_config/cnc_config.iml" filepath="$PROJECT_DIR$/cnc_config/cnc_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cnc_controller/cnc_controller.iml" filepath="$PROJECT_DIR$/cnc_controller/cnc_controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cnc_dao/cnc_dao.iml" filepath="$PROJECT_DIR$/cnc_dao/cnc_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cnc_entity/cnc_entity.iml" filepath="$PROJECT_DIR$/cnc_entity/cnc_entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cnc_rabbitmq/cnc_rabbitmq.iml" filepath="$PROJECT_DIR$/cnc_rabbitmq/cnc_rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cnc_service/cnc_service.iml" filepath="$PROJECT_DIR$/cnc_service/cnc_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cnc_tool/cnc_tool.iml" filepath="$PROJECT_DIR$/cnc_tool/cnc_tool.iml" />
+    </modules>
+  </component>
+</project>

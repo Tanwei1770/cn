@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cnc" />
+        <module name="cnc_config" />
+        <module name="cnc_controller" />
+        <module name="cnc_dao" />
+        <module name="cnc_entity" />
+        <module name="cnc_rabbitmq" />
+        <module name="cnc_service" />
+        <module name="cnc_tool" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cnc" target="1.8" />
+      <module name="cnc_config" target="1.8" />
+      <module name="cnc_controller" target="1.8" />
+      <module name="cnc_dao" target="1.8" />
+      <module name="cnc_entity" target="1.8" />
+      <module name="cnc_rabbitmq" target="1.8" />
+      <module name="cnc_service" target="1.8" />
+      <module name="cnc_tool" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cnc" options="-parameters" />
+      <module name="cnc_config" options="-parameters" />
+      <module name="cnc_controller" options="-parameters" />
+      <module name="cnc_dao" options="-parameters" />
+      <module name="cnc_entity" options="-parameters" />
+      <module name="cnc_rabbitmq" options="-parameters" />
+      <module name="cnc_service" options="-parameters" />
+      <module name="cnc_tool" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eee2d8e3-d29e-4edb-bbe1-ed3b552d9d65" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cnc_config/src/main/java/com/cnc/config/interceptors/JWTFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/cnc_config/src/main/java/com/cnc/config/interceptors/JWTFilter.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/cnc_dao/target/" />
+    <ignored path="$PROJECT_DIR$/cnc_entity/target/" />
+    <ignored path="$PROJECT_DIR$/cnc_system/target/" />
+    <ignored path="$PROJECT_DIR$/cnc_config/target/" />
+    <ignored path="$PROJECT_DIR$/cnc_tool/target/" />
+    <ignored path="$PROJECT_DIR$/cnc_service/target/" />
+    <ignored path="$PROJECT_DIR$/cnc_controller/target/" />
+    <ignored path="$PROJECT_DIR$/cnc_rabbitmq/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cnc_config/src/main/java/com/cnc/config/interceptors/JWTFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="66" column="31" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CncConfig</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\asus\Desktop\杂\cnc\cnc_controller\src\main\resources\static\homePage</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cnc_dao/src/main/java/com/cnc/dao/mapper/Test.java" />
+        <option value="$PROJECT_DIR$/cnc_service/src/main/java/com/cnc/service/ccr/TestService.java" />
+        <option value="$PROJECT_DIR$/cnc_service/src/main/java/com/cnc/service/ccr/impl/TestServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cnc_config/src/main/java/com/cnc/config/deploy/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/cnc_controller/src/main/java/com/cnc/CncSystemApplication.java" />
+        <option value="$PROJECT_DIR$/cnc_config/src/main/java/com/cnc/config/deploy/RestTemplateConfig.java" />
+        <option value="$PROJECT_DIR$/cnc_dao/src/main/resources/mapper/Test/TestMapper.xml" />
+        <option value="$PROJECT_DIR$/cnc_controller/pom.xml" />
+        <option value="$PROJECT_DIR$/cnc_rabbitmq/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cnc_service/pom.xml" />
+        <option value="$PROJECT_DIR$/cnc_rabbitmq/src/main/java/com/cnc/rabbitmq/SingleRabbitMq.java" />
+        <option value="$PROJECT_DIR$/cnc_rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/cnc_rabbitmq/src/main/java/com/cnc/rabbitmq/Test/testmq.java" />
+        <option value="$PROJECT_DIR$/cnc_controller/src/main/java/com/cnc/controller/ccr/TestController.java" />
+        <option value="$PROJECT_DIR$/cnc_controller/src/main/java/com/cnc/Swagger/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/cnc_controller/src/main/java/com/cnc/CncControllerApplication.java" />
+        <option value="$PROJECT_DIR$/cnc_entity/src/main/java/com/cnc/entity/test/TPerms.java" />
+        <option value="$PROJECT_DIR$/cnc_service/src/main/java/com/cnc/service/ccr/UserService.java" />
+        <option value="$PROJECT_DIR$/cnc_service/src/main/java/com/cnc/service/ccr/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cnc_config/src/main/java/com/cnc/config/Swagger/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/cnc_tool/src/main/java/entityToll/BaseEntity.java" />
+        <option value="$PROJECT_DIR$/cnc_entity/pom.xml" />
+        <option value="$PROJECT_DIR$/cnc_entity/src/main/java/com/cnc/entity/user/User.java" />
+        <option value="$PROJECT_DIR$/cnc_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/cnc_tool/src/main/java/entityToll/R.java" />
+        <option value="$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/base/Constants.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/utils/DateUtils.java" />
+        <option value="$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/uilt/StrFormatter.java" />
+        <option value="$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/uilt/StringUtils.java" />
+        <option value="$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/page/PageDomain.java" />
+        <option value="$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/uilt/ServletUtils.java" />
+        <option value="$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/page/TableSupport.java" />
+        <option value="$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/uilt/SqlUtil.java" />
+        <option value="$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/base/BaseController.java" />
+        <option value="$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/uilt/Convert.java" />
+        <option value="$PROJECT_DIR$/cnc_dao/src/main/java/com/cnc/dao/ccr/mapper/UserDAO.java" />
+        <option value="$PROJECT_DIR$/cnc_controller/src/main/java/com/cnc/controller/ccr/UserController.java" />
+        <option value="$PROJECT_DIR$/cnc_dao/src/main/java/com/cnc/dao/ccr/mapper/HotIssueMapper.java" />
+        <option value="$PROJECT_DIR$/cnc_service/src/main/java/com/cnc/service/ccr/HotIssueService.java" />
+        <option value="$PROJECT_DIR$/cnc_service/src/main/java/com/cnc/service/ccr/impl/HotIssueServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cnc_entity/src/main/java/com/cnc/entity/homePage/HotIssue.java" />
+        <option value="$PROJECT_DIR$/cnc_controller/src/main/java/com/cnc/controller/ccr/HotIssueController.java" />
+        <option value="$PROJECT_DIR$/cnc_entity/src/main/java/com/cnc/entity/homePage/TopLine.java" />
+        <option value="$PROJECT_DIR$/cnc_dao/src/main/java/com/cnc/dao/ccr/mapper/TopLineMapper.java" />
+        <option value="$PROJECT_DIR$/cnc_service/src/main/java/com/cnc/service/ccr/TopLineService.java" />
+        <option value="$PROJECT_DIR$/cnc_service/src/main/java/com/cnc/service/ccr/impl/TopLineServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cnc_controller/src/main/java/com/cnc/controller/ccr/TopLineController.java" />
+        <option value="$PROJECT_DIR$/cnc_config/src/main/java/com/cnc/config/deploy/ShiroConfig.java" />
+        <option value="$PROJECT_DIR$/cnc_controller/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cnc_config/src/main/java/com/cnc/config/interceptors/JWTFilter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven install\chuangku" />
+        <option name="mavenHome" value="E:/maven install/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\maven install\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cnc_controller" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cnc_controller" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cnc_controller" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cnc_entity" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cnc_entity" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="201" />
+    <option name="y" value="293" />
+    <option name="width" value="1343" />
+    <option name="height" value="928" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="deploy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="Swagger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="ccr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="homePage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ccr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnc" type="462c0819:PsiDirectoryNode" />
+              <item name="cnc_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ccr" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610461999352" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../值得研究的项目/houjie-grid-center-dev-bb80852fb31c1ed57f1a06477d2bc9f2867668d3" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\Desktop\杂\cnc\cnc_controller\src\main\resources\static\img\home" />
+      <recent name="C:\Users\asus\Desktop\杂\cnc\cnc_controller\src\main\resources\static\homePage" />
+      <recent name="C:\Users\asus\Desktop\cnc\cnc_tool\src\main\java\com\cnc\tool" />
+      <recent name="C:\Users\asus\Desktop\cnc\cnc_entity\src\main\java\com\cnc\entity" />
+      <recent name="C:\Users\asus\Desktop\cnc\cnc_service\src\main\java\com\cnc\service\ccr" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cnc.tool.uilt" />
+      <recent name="com.cnc.Swagger" />
+      <recent name="com.cnc.dao.mapper" />
+      <recent name="com.cnc.ccr.service.impl" />
+      <recent name="com.cnc.ccr.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\Desktop\cnc\cnc_entity\target\classes\com\cnc" />
+      <recent name="C:\Users\asus\Desktop\cnc\cnc_dao\target\classes\com\cnc" />
+      <recent name="C:\Users\asus\Desktop\cnsn\cnc_dao\src\main\resources\mapper\Test" />
+      <recent name="C:\Users\asus\Desktop\cnsn\cnc_dao\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CncControllerApplication">
+    <configuration name="CncControllerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cnc_controller" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cnc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cnc.CncControllerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CncRabbitmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cnc_rabbitmq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ht.cnc_rabbitmq.CncRabbitmqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CncSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cnc_controller" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cnc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cnc.CncSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CncControllerApplication" />
+        <item itemvalue="Spring Boot.CncSystemApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eee2d8e3-d29e-4edb-bbe1-ed3b552d9d65" name="Default Changelist" comment="" />
+      <created>1607173804575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607173804575</updated>
+      <workItem from="1607173807761" duration="5672000" />
+      <workItem from="1607179513877" duration="1895000" />
+      <workItem from="1607181430047" duration="116000" />
+      <workItem from="1607228734910" duration="10009000" />
+      <workItem from="1607248176358" duration="45000" />
+      <workItem from="1607248425872" duration="108000" />
+      <workItem from="1607248565651" duration="207000" />
+      <workItem from="1607259038040" duration="684000" />
+      <workItem from="1607267458776" duration="2676000" />
+      <workItem from="1607270172834" duration="644000" />
+      <workItem from="1607270846192" duration="1707000" />
+      <workItem from="1607272600207" duration="28000" />
+      <workItem from="1607272637582" duration="588000" />
+      <workItem from="1607273251834" duration="63000" />
+      <workItem from="1607306861185" duration="74000" />
+      <workItem from="1607526096922" duration="1419000" />
+      <workItem from="1607527543649" duration="2382000" />
+      <workItem from="1607565835349" duration="70000" />
+      <workItem from="1607779277219" duration="5292000" />
+      <workItem from="1607826390996" duration="2459000" />
+      <workItem from="1607828884741" duration="323000" />
+      <workItem from="1607829229893" duration="2366000" />
+      <workItem from="1607835321716" duration="376000" />
+      <workItem from="1607839610163" duration="185000" />
+      <workItem from="1608124944415" duration="809000" />
+      <workItem from="1608168039354" duration="47000" />
+      <workItem from="1608168123430" duration="44000" />
+      <workItem from="1608204679221" duration="281000" />
+      <workItem from="1608257420966" duration="41000" />
+      <workItem from="1608906777961" duration="2372000" />
+      <workItem from="1609086113451" duration="2044000" />
+      <workItem from="1609122396870" duration="32000" />
+      <workItem from="1609221931750" duration="59000" />
+      <workItem from="1609229164894" duration="716000" />
+      <workItem from="1610364853413" duration="2315000" />
+      <workItem from="1610373758216" duration="4317000" />
+      <workItem from="1610379221162" duration="2089000" />
+      <workItem from="1610414836299" duration="25000" />
+      <workItem from="1610440004686" duration="4391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="58970000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49665925" visible="true" weight="0.2489339" />
+      <window_info id="Structure" order="1" sideWeight="0.5033408" side_tool="true" weight="0.31236672" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32628062" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40868598" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.66146994" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32962137" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32850778" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32850778" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32850778" />
+      <window_info anchor="bottom" id="JProfiler" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32962137" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.3207127" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32942432" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="ASM" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cnc_controller/src/main/java/com/cnc/tool/CncSystemApplication.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cnc_config/src/main/java/com/cnc/config/deploy/MyRealm.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://E:/maven install/chuangku/org/apache/shiro/shiro-web/1.5.3/shiro-web-1.5.3.jar!/org/apache/shiro/web/filter/AccessControlFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_controller/src/main/java/com/cnc/controller/ccr/TestController.java" />
+    <entry file="file://$PROJECT_DIR$/cnc_dao/src/main/java/com/cnc/dao/ccr/mapper/Test.java" />
+    <entry file="file://$PROJECT_DIR$/cnc_entity/src/main/java/com/cnc/entity/test/TPerms.java" />
+    <entry file="file://$PROJECT_DIR$/cnc_controller/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_entity/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/base/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="79" column="61" selection-start-line="79" selection-start-column="61" selection-end-line="79" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/utils/DateUtils.java" />
+    <entry file="file://$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/page/TableDataInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven install/chuangku/org/springframework/spring-web/5.2.7.RELEASE/spring-web-5.2.7.RELEASE.jar!/org/springframework/web/context/request/RequestContextHolder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/uilt/ServletUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="75" column="54" selection-start-line="75" selection-start-column="54" selection-end-line="75" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1305#1306#0" expanded="true" />
+            <element signature="e#1363#1364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven install/chuangku/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar!/org/apache/commons/lang3/time/DateUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/page/TableSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/page/PageDomain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/uilt/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="8" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/uilt/StrFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="70" column="33" lean-forward="true" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/uilt/DateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/uilt/SqlUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/base/BaseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/base/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="168" column="38" lean-forward="true" selection-start-line="168" selection-start-column="38" selection-end-line="168" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/jdk1.8.0_91/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="394" column="26" selection-start-line="394" selection-start-column="26" selection-end-line="394" selection-end-column="26" />
+          <folding>
+            <element signature="e#19296#19297#0" expanded="true" />
+            <element signature="e#19379#19380#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/uilt/Convert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13376">
+          <caret line="762" column="17" selection-start-line="762" selection-start-column="17" selection-end-line="762" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#16619#16620#0" expanded="true" />
+            <element signature="e#16645#16646#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_dao/src/main/resources/mapper/user/UserDAOMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="82" selection-start-line="3" selection-start-column="80" selection-end-line="3" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven install/chuangku/org/apache/shiro/shiro-core/1.5.3/shiro-core-1.5.3-sources.jar!/org/apache/shiro/subject/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="90" column="11" selection-start-line="90" selection-start-column="11" selection-end-line="90" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="162" lean-forward="true" selection-start-line="162" selection-end-line="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_config/src/main/java/com/cnc/config/Swagger/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_entity/src/main/java/com/cnc/entity/homePage.java" />
+    <entry file="file://$PROJECT_DIR$/cnc_dao/src/main/java/com/cnc/dao/ccr/mapper/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_service/src/main/java/com/cnc/service/ccr/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="20" column="63" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
+            <element signature="e#1491#1492#0" expanded="true" />
+            <element signature="e#1546#1547#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_service/src/main/java/com/cnc/service/ccr/HotIssueService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_controller/src/main/java/com/cnc/controller/ccr/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="108" column="1" selection-start-line="108" selection-start-column="1" selection-end-line="109" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_entity/src/main/java/com/cnc/entity/user/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_tool/src/main/java/com/cnc/tool/base/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_entity/src/main/java/com/cnc/entity/homePage/HotIssue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_service/src/main/java/com/cnc/service/ccr/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_dao/src/main/java/com/cnc/dao/ccr/mapper/HotIssueMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_dao/src/main/java/com/cnc/dao/ccr/mapper/TopLineMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_entity/src/main/java/com/cnc/entity/homePage/TopLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_service/src/main/java/com/cnc/service/ccr/impl/TopLineServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_service/src/main/java/com/cnc/service/ccr/TopLineService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_controller/src/main/java/com/cnc/controller/ccr/TopLineController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding>
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#916#917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_controller/src/main/java/com/cnc/controller/ccr/HotIssueController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" selection-start-line="29" selection-end-line="30" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_service/src/main/java/com/cnc/service/ccr/impl/HotIssueServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_config/src/main/java/com/cnc/config/deploy/ShiroConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="48" column="53" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_config/src/main/java/com/cnc/config/deploy/MyRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_controller/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="67" lean-forward="true" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_config/src/main/java/com/cnc/config/deploy/MyByteSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-402">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_config/src/main/java/com/cnc/config/interceptors/JWTInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven install/chuangku/org/apache/shiro/shiro-web/1.5.3/shiro-web-1.5.3.jar!/org/apache/shiro/web/filter/PathMatchingFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnc_config/src/main/java/com/cnc/config/interceptors/JWTFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="66" column="31" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cnc_tool</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.44795918" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.44795918" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
